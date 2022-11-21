@@ -13,7 +13,7 @@ Dí cómo será ese paso
 
 Algunas webs permitidas para realizar la acción:
 
-https://espirituemprendedor.mx https://diarioindependiente.mx https://alertamexico.mx
+https://espirituemprendedor.mx https://diarioindependiente.mx https://alertamexico.mx http://digitalestrella.com
 
 Da un ejemplo Y repite
 
